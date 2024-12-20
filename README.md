@@ -1,4 +1,7 @@
 # treinai
+
+(Este repositório é um substituto temporário ao nosso repositório original, que está privado)
+
 TreinAi - Equipe 11 - CIn UFPE
 
 Requisitos: Python 3.12.5, Flutter 3.102.0 (inclui Dart), Django 5.1.1, Django-cors-headers 4.6.0, google-generativeai 0.8.3, djangorestframework 3.15.2
